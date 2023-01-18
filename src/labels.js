@@ -1,5 +1,6 @@
 import React from 'react';
 
+// functional component that returns the form inputs for adding a new transaction
 export const Labels = ({newTransaction, handleChange}) => {
   return (
     <>
